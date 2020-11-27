@@ -1,0 +1,70 @@
+.body-color {
+    background-color: red;
+}
+
+#hamburger-icoon {
+    height: 100px;
+}
+
+.dropdown-content {
+    display:none; 
+    font-weight: bold;
+}
+
+.color-box {
+    list-style-type: none;
+    padding: 10px;
+    border: black solid 1px;
+}
+
+#red-btn {
+    background-color: red;
+}
+
+#orange-btn {
+    background-color: orange;
+}
+
+#yellow-btn {
+    background-color: yellow;
+}
+
+#green-btn {
+    background-color: green;
+}
+
+#blue-btn {
+    background-color: blue;
+}
+
+#purple-btn {
+    background-color: purple;
+}
+
+.background-red {
+    background-color: red;
+}
+
+.background-orange {
+    background-color: orange;
+}
+
+.background-yellow {
+    background-color: yellow;
+}
+
+.background-green {
+    background-color: green;
+}
+
+.background-blue {
+    background-color: blue;
+}
+
+.background-purple {
+    background-color: purple;
+}
+
+.show {
+    display:block;
+}
